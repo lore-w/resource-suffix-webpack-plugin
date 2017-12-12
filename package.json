@@ -1,0 +1,27 @@
+{
+  "name": "resource-suffix-webpack-plugin",
+  "version": "1.0.0",
+  "description": "resource-suffix-webpack-plugin for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Lore-w",
+    "email": "metro-cpu@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lore-w/resource-suffix-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-plugin",
+    "resource-suffix"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "lodash": "^4.17.4"
+  }
+}
